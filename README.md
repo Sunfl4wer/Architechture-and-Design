@@ -1,5 +1,5 @@
-# Architecture-and-Design
-* Homework for Architecture and Design class - PYCOgroup training.
+# Architecture and Design
+* Homework for Architecture and Design class - 20/03/2020.
 * Each file is an example of a violation of one of the five S.O.L.I.D principles followed by the S.O.L.I.D abiding solution for them.
 * The S.O.L.I.D principes are:
   1. [Single Responsibility](https://en.wikipedia.org/wiki/Single-responsibility_principle)
