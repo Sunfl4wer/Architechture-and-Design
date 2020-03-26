@@ -1,10 +1,17 @@
 # Architecture-and-Design
-Homework for Architecture and Design class - PYCOgroup training.
+* Homework for Architecture and Design class - PYCOgroup training.
+* Each file is an example of a violation of one of the five S.O.L.I.D principles followed by the S.O.L.I.D abiding solution for them.
+* The S.O.L.I.D principes are:
+  1. [Single Responsibility](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+  2. Open - Close
+  3. Liskov Subtitution
+  4. Interface Segregation
+  5. Dipendency Inversion
 
 # File structure
 
 ## Programming language
-The code snippet is written in *Java*. Some functions only have **simbolic presentation** and no **detail implementation**. But can still be used to representing the idea of the *principle*.
+The code snippet is written in *Java*. Some functions only have **symbolic presentation** and no **detail implementation**. But can still be used to representing the idea of the *principle*.
 
 ## What is in a file?
 1. The *principle* illustated by the code snippet.
@@ -18,26 +25,11 @@ The code snippet is written in *Java*. Some functions only have **simbolic prese
 2. The context of the code snippet that is used to illustrate the *principle*
 ```
 //====================================================================================================================
-// The matrix_manipulation class have to responsible for 3 task:
-// 	1. Read a 3x3 matrix from file
-// 	2. Performing matrix manipulation (transpose in this case) on the given matrix 
-// 	3. Display the matrix on the screen
+// The context goes here
 //====================================================================================================================
-// input:
-// 	3
-// 	4
-// 	5
-// 	6
-// 	7
-// 	8
-// 	9
-// 	10
-// 	11
+// input: optional
 //====================================================================================================================
-// output:
-// 	3 6 9
-// 	4 7 10
-// 	5 8 11
+// output: optional
 // ===================================================================================================================
 ```
 3. The code snippet for bad example with comments
