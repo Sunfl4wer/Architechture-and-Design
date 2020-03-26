@@ -7,7 +7,7 @@
 //====================================================================================================================
 // 
 // Consider an application that is used to manage the facilities of a room in a hotel. A hotel will have three types
-// of rooms: economics, business, luxury. 
+// of rooms: economy, business, luxury. 
 //   - Each room will have a room number, price, renting dates (start and end). 
 //   - Business class room has an additional feature of serving lunch and diner at the room.
 //   - Luxury class room provides access to massage, golf course, and 4 stars restaurant service.
@@ -19,7 +19,8 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 // Bad example
-//
+// 
+// The Room() class has all the feature that might be unavailable in economyRoom() class or businessRoom() class.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
 
 public interface Room {
@@ -32,7 +33,7 @@ public interface Room {
   void enableCampusService(int number);
 }
 
-public class economicsRoom implements Room {
+public class economyRoom implements Room {
   int number;
   double price;
 
@@ -76,7 +77,7 @@ public interface luxuryClass {
   void enableCampusService(int number);
 }
 
-public class economicsRoom implements Room {
+public class economyRoom implements Room {
   int number;
   double price;
 
