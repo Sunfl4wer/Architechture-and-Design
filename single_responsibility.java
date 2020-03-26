@@ -1,6 +1,6 @@
 /* 
  * 
- * Example fo Liskov Subtitution princicle
+ * Example for Single Responsibility princicle
  *
  */
 
