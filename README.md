@@ -15,7 +15,8 @@ The code snippet is written in *Java*. Some functions only have **simbolic prese
  *
  */
 ```
-
+2. The context of the code snippet that is used to illustrate the *principle*
+```
 //====================================================================================================================
 // The matrix_manipulation class have to responsible for 3 task:
 // 	1. Read a 3x3 matrix from file
@@ -38,3 +39,31 @@ The code snippet is written in *Java*. Some functions only have **simbolic prese
 // 	4 7 10
 // 	5 8 11
 // ===================================================================================================================
+```
+3. The code snippet for bad example with comments
+``` 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Bad example
+//
+//   *Block of comment*
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+
+`<Block of code>`
+
+```
+
+4. The code snippet for good example with comments
+```
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Good example
+//
+//   *Block of comment*
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+
+`<Block of code>`
+
+```
