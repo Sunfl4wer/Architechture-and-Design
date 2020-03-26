@@ -3,10 +3,10 @@
 * Each file is an example of a violation of one of the five S.O.L.I.D principles followed by the S.O.L.I.D abiding solution for them.
 * The S.O.L.I.D principes are:
   1. [Single Responsibility](https://en.wikipedia.org/wiki/Single-responsibility_principle)
-  2. Open - Close
-  3. Liskov Subtitution
-  4. Interface Segregation
-  5. Dipendency Inversion
+  2. [Open - Closed](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+  3. [Liskov Subtitution](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+  4. [Interface Segregation](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+  5. [Dependency Inversion](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
 # File structure
 
