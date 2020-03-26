@@ -8,13 +8,13 @@ The code snippet is written in *Java*. Some functions only have **simbolic prese
 
 ## What is in a file?
 1. The *principle* illustated by the code snippet.
-`<
+```
 /* 
  * 
  * Example for Single Responsibility princicle
  *
  */
->`
+```
 
 //====================================================================================================================
 // The matrix_manipulation class have to responsible for 3 task:
